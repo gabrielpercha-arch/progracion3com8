@@ -15,7 +15,7 @@ public class Program
         Console.WriteLine($"Por favor, ingrese los datos de {CANTIDAD_PERSONAS } personas.");
 
         
-        for (int i = 0; i < 20; i++)
+        for (int i = 0; i <CANTIDAD_PERSONAS ; i++)
         {
             Console.WriteLine($"\nPersona #{i + 1}:"); 
 
@@ -33,7 +33,7 @@ public class Program
         
 
         
-        for (int i = 0; i < 21; i++)
+        for (int i = 0; i <CANTIDAD_PERSONAS ; i++)
         {
             
             if (edades[i] >= 30)
