@@ -1,0 +1,15 @@
+D:\progracion3com8\programa07\bin\Debug\net9.0\programa07.exe
+D:\progracion3com8\programa07\bin\Debug\net9.0\programa07.deps.json
+D:\progracion3com8\programa07\bin\Debug\net9.0\programa07.runtimeconfig.json
+D:\progracion3com8\programa07\bin\Debug\net9.0\programa07.dll
+D:\progracion3com8\programa07\bin\Debug\net9.0\programa07.pdb
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.GeneratedMSBuildEditorConfig.editorconfig
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.AssemblyInfoInputs.cache
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.AssemblyInfo.cs
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.csproj.CoreCompileInputs.cache
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.sourcelink.json
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.dll
+D:\progracion3com8\programa07\obj\Debug\net9.0\refint\programa07.dll
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.pdb
+D:\progracion3com8\programa07\obj\Debug\net9.0\programa07.genruntimeconfig.cache
+D:\progracion3com8\programa07\obj\Debug\net9.0\ref\programa07.dll

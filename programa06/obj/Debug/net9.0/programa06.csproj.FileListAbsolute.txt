@@ -1,0 +1,15 @@
+D:\progracion3com8\programa06\bin\Debug\net9.0\programa06.exe
+D:\progracion3com8\programa06\bin\Debug\net9.0\programa06.deps.json
+D:\progracion3com8\programa06\bin\Debug\net9.0\programa06.runtimeconfig.json
+D:\progracion3com8\programa06\bin\Debug\net9.0\programa06.dll
+D:\progracion3com8\programa06\bin\Debug\net9.0\programa06.pdb
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.GeneratedMSBuildEditorConfig.editorconfig
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.AssemblyInfoInputs.cache
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.AssemblyInfo.cs
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.csproj.CoreCompileInputs.cache
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.sourcelink.json
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.dll
+D:\progracion3com8\programa06\obj\Debug\net9.0\refint\programa06.dll
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.pdb
+D:\progracion3com8\programa06\obj\Debug\net9.0\programa06.genruntimeconfig.cache
+D:\progracion3com8\programa06\obj\Debug\net9.0\ref\programa06.dll

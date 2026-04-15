@@ -1,0 +1,15 @@
+D:\progracion3com8\programa01\bin\Debug\net9.0\programa01.exe
+D:\progracion3com8\programa01\bin\Debug\net9.0\programa01.deps.json
+D:\progracion3com8\programa01\bin\Debug\net9.0\programa01.runtimeconfig.json
+D:\progracion3com8\programa01\bin\Debug\net9.0\programa01.dll
+D:\progracion3com8\programa01\bin\Debug\net9.0\programa01.pdb
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.GeneratedMSBuildEditorConfig.editorconfig
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.AssemblyInfoInputs.cache
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.AssemblyInfo.cs
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.csproj.CoreCompileInputs.cache
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.sourcelink.json
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.dll
+D:\progracion3com8\programa01\obj\Debug\net9.0\refint\programa01.dll
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.pdb
+D:\progracion3com8\programa01\obj\Debug\net9.0\programa01.genruntimeconfig.cache
+D:\progracion3com8\programa01\obj\Debug\net9.0\ref\programa01.dll

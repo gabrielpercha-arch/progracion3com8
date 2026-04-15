@@ -1,0 +1,15 @@
+D:\progracion3com8\programa04\bin\Debug\net9.0\programa04.exe
+D:\progracion3com8\programa04\bin\Debug\net9.0\programa04.deps.json
+D:\progracion3com8\programa04\bin\Debug\net9.0\programa04.runtimeconfig.json
+D:\progracion3com8\programa04\bin\Debug\net9.0\programa04.dll
+D:\progracion3com8\programa04\bin\Debug\net9.0\programa04.pdb
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.GeneratedMSBuildEditorConfig.editorconfig
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.AssemblyInfoInputs.cache
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.AssemblyInfo.cs
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.csproj.CoreCompileInputs.cache
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.sourcelink.json
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.dll
+D:\progracion3com8\programa04\obj\Debug\net9.0\refint\programa04.dll
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.pdb
+D:\progracion3com8\programa04\obj\Debug\net9.0\programa04.genruntimeconfig.cache
+D:\progracion3com8\programa04\obj\Debug\net9.0\ref\programa04.dll
