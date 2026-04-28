@@ -1,0 +1,15 @@
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\bin\Debug\net9.0\encapsulamiento.exe
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\bin\Debug\net9.0\encapsulamiento.deps.json
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\bin\Debug\net9.0\encapsulamiento.runtimeconfig.json
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\bin\Debug\net9.0\encapsulamiento.dll
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\bin\Debug\net9.0\encapsulamiento.pdb
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.AssemblyInfoInputs.cache
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.AssemblyInfo.cs
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.csproj.CoreCompileInputs.cache
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.sourcelink.json
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.dll
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\refint\encapsulamiento.dll
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.pdb
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\encapsulamiento.genruntimeconfig.cache
+D:\progracion3com8\ejercicio1encapsulamiento\encapsulamiento\obj\Debug\net9.0\ref\encapsulamiento.dll
