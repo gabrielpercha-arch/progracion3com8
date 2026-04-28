@@ -1,0 +1,6 @@
+enuciado: Almacenar 20 nombres que van a ingresar los clientes con sus respectivas edades y solo aquellos que sean mayores de 30 años pueden 
+ingresar al baile quienes tengan menos de 30 años mostrar mensaje de volver a casa.
+solucion:
+primero definimos cuantas personas van a entrar con una variable CANTIDAD_PERSONA como un entero,
+luego definios dos array uno para nombres como un string y uno para edades como edades que seria un int guardamos los datos en cada posicion
+por medio de un for y con un if y un else mostramos un mensaje sobre quienes son mayores de 30 y menores de 30.

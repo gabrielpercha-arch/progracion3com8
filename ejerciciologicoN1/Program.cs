@@ -15,7 +15,9 @@ public class Program
         Console.WriteLine($"Por favor, ingrese los datos de {CANTIDAD_PERSONAS } personas.");
 
         
-        for (int i = 0; i < CANTIDAD_PERSONAS; i++)
+        
+
+        for (int i = 0; i <CANTIDAD_PERSONAS ; i++)
         {
             Console.WriteLine($"\nPersona #{i + 1}:"); 
 
